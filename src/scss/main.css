@@ -1,47 +1,41 @@
-<div class="container">
-<div class="I" >
-<img alt="Vue logo" class="perfil" src="../assets/logo.png">
-<section>
-  <h1>Hello, I´m Juanfe</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
-</section>
-</div>
-<div class="A" >
-<section>
-  <h1>About me</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
-</section>
-</div>
-<div class="P" >
-<section><h1>Proyects</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p></section>
-</div>
-  <div class="E" >
-<section>
-  <h1>Estudies</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
-</section>
-</div>
+@import "../../node_modules/bulma/bulma.sass";
 
-  <div class="T" >
-    <section>
-<h1>Testimonials</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
-    </section>
-</div>
-</div>
+
+html{
+    background: black;
+}
+*{
+    margin: 0%;
+    padding: 1%;
+}
+  img{
+    border-radius: 50%;
+    height: 15rem;
+  }
+  
+  .I{
+    text-align: center;
+    color: white;
+    background: darkslategray;
+  }
+  
+  .A{
+      background: rgb(83, 86, 86);
+      color: white;
+      text-align: center;
+      }
+  .P{
+  background: darkslategray;
+  color: white;
+  text-align: center;
+  }
+  .E{
+  background: rgb(83, 86, 86);
+  color: white;
+  text-align: center;
+  }
+  .T{
+  background: darkslategray;
+  text-align: center;
+  color: white;
+  }
