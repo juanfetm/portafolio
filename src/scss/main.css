@@ -8,7 +8,7 @@ html{
 *{
     margin: 0%;
     padding: 1%;
-    font-family: 'Roboto', sans-serif;;
+    font-family: 'Roboto', sans-serif;
 }
   img{
     border-radius: 50%;
@@ -42,3 +42,19 @@ html{
   color: white;
   }
 
+  p, h1{
+    animation-duration: 2s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 100%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
