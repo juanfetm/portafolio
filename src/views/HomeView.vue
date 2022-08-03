@@ -1,7 +1,11 @@
 <template>
-<div class="container">
+<div class="container-center">
+  <div class="card">
+      <theme-button />
 <div class="I" >
 <img alt="Vue logo" class="perfil" src="../assets/logo.png">
+<div>
+</div>
 <section>
   <h1>Hello, I´m Juanfe</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -46,18 +50,11 @@
     </section>
 </div>
 </div>
+</div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue';
-// import HelloWorld from '@/components/HelloWorld.vue';
-
-export default defineComponent({
-  name: 'HomeView',
-  components: {
-    // HelloWorld,
-  },
-});
+<script setup lang="ts">
+import { Icon } from '@iconify/vue';
 </script>
 
 <style lang="scss">
