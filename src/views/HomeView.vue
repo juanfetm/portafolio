@@ -60,6 +60,6 @@ export default defineComponent({
 });
 </script>
 
-<style lang="css">
-@import "../scss/main.css";
+<style lang="scss">
+@import "../assets/styles/main.scss";
 </style>

@@ -1,11 +1,11 @@
-@import "../../node_modules/bulma/bulma.sass";
+/* @import "../../node_modules/bulma/bulma.sass";
 
 
 html{
     background: black;
 
 }
-*{
+/* *{
     margin: 0%;
     padding: 1%;
     font-family: 'Roboto', sans-serif;
@@ -13,9 +13,9 @@ html{
   img{
     border-radius: 50%;
     height: 15rem;
-  }
+  } */
   
-  .I{
+  /* .I{
     text-align: center;
     color: white;
     background: darkslategray;
@@ -57,4 +57,4 @@ html{
       margin-left: 0%;
       width: 100%;
     }
-  }
+  } */ */

@@ -1,0 +1,51 @@
+html{
+    background: #2f4f4f;;
+}
+img{
+    border-radius: 50%;
+    height: 15rem;
+  }
+
+  .I{
+    text-align: center;
+    color: white;
+    background: darkslategray;
+  }
+
+  .A{
+    background: rgb(83, 86, 86);
+    color: white;
+    text-align: center;
+    }
+.P{
+background: darkslategray;
+color: white;
+text-align: center;
+}
+.E{
+background: rgb(83, 86, 86);
+color: white;
+text-align: center;
+}
+.T{
+background: darkslategray;
+text-align: center;
+color: white;
+}
+
+p, h1{
+  animation-duration: 2s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 100%
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
