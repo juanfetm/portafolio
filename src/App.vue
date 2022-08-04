@@ -1,5 +1,11 @@
 <template>
-  <div :class="getTheme()">
+      <div>
+          <label for="page-style" class="u-text--light">
+            dark mode💡
+            <input type="checkbox" id="page-style" v-model="isDarkMode"/>
+          </label>
+        </div>
+          <div :class="getTheme()">
     <router-view />
 
     <nav class="nav-bar">
@@ -8,27 +14,19 @@
       </div>
     </nav>
 
-    <footer class="u-background-2 main-footer">
-      <div class="main-footer__logo">
-        <Icon class="juan-logo" icon="mdi:alpha-j-circle-outline" color="white" />
-        <div>
-          <label for="page-style" class="u-text--light">
-            dark mode💡
-            <input type="checkbox" id="page-style" v-model="isDarkMode"/>
-          </label>
-        </div>
-      </div>
-
-    </footer>
   </div>
 </template>
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import { Icon } from '@iconify/vue';
+// import { Icon } from '@iconify/vue';
 
 const isDarkMode = ref(false);
 function getTheme() {
   return isDarkMode.value ? 'theme--dark' : 'theme--light';
 }
 </script>
+
+<style lang="scss">
+@import "../src/assets/styles/main.scss";
+</style>

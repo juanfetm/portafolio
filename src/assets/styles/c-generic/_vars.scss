@@ -8,19 +8,11 @@
 
 
 .theme--dark {
-    --color-background-1: #c5c5c5;
-    --color-background-2: #1D2228;
-    --color-background-3: #1D2228;
-    --color-text-1: #ffffff;
-    --color-text-2: #ffffff;
-    --color-text-3: gray;
+   background: white;
+   color: black;
+    
 }
 
 .theme--light {
-    --color-background-1: #ffffff;
-    --color-background-2: #6E07F3;
-    --color-background-3: #6e08f330;
-    --color-text-1: #141c3a;
-    --color-text-2: #ffffff;
-    --color-text-3: gray;
+    background: black;
 }

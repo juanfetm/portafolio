@@ -8,29 +8,24 @@ img{
 
   .I{
     text-align: center;
-    color: white;
-    background: darkslategray;
+    color: wheat;
   }
 
   .A{
-    background: rgb(83, 86, 86);
-    color: white;
+    color: wheat;
     text-align: center;
     }
 .P{
-background: darkslategray;
-color: white;
+color: wheat;
 text-align: center;
 }
 .E{
-background: rgb(83, 86, 86);
-color: white;
+color: wheat;
 text-align: center;
 }
 .T{
-background: darkslategray;
 text-align: center;
-color: white;
+color: wheat;
 }
 
 p, h1{
@@ -50,4 +45,12 @@ p, h1{
   }
 }
 
+label{
+  background: #3c3636;
+  border-radius: 50px;
+  color: wheat;
+}
 
+body {
+  margin: -3%;
+}
