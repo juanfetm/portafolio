@@ -13,7 +13,6 @@
       <div class="nav-bar__right">
       </div>
     </nav>
-
   </div>
 </template>
 
