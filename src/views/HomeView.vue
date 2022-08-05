@@ -6,48 +6,42 @@
 <img alt="Vue logo" class="perfil" src="../assets/logo.png">
 <div>
 </div>
-<section>
   <h1>Hello, I´m Juanfe</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
-</section>
+<p>
+I am a junior front-end developer. It seems to me that the world of technolog
+It is interesting and extensive because the
+job opportunities it offers are good and growing
+professionally day by day helps us to collaborate in
+this collaborative environment.</p>
 </div>
 <div class="A" >
-<section>
   <h1>About me</h1>
+<p>Since I was little I have found computer systems interesting, so I decided to study
+a computer systems technician in my city (Pensilvania-Caldas)
+and take different web development courses to expand
+my knowledge, to be able to contribute to society, collaborate to build it in a better way.</p>
+</div>
+<div class="P" >
+<h1>Proyects</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae velit.
    >Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae veli</p>
-</section>
-</div>
-<div class="P" >
-<section><h1>Proyects</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p></section>
 </div>
   <div class="E" >
-<section>
   <h1>Estudies</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae velit.
    >Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae veli</p>
-</section>
 </div>
 
   <div class="T" >
-    <section>
 <h1>Testimonials</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae velit.
    >Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae veli</p>
-    </section>
 </div>
 </div>
 </div>
