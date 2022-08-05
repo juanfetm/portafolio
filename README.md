@@ -1,34 +1,3 @@
-# spa-developer-portafolio
+![image](https://user-images.githubusercontent.com/97925777/182987067-8ac70a4a-89fb-4e83-a5e7-adc894dfdc8d.png)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ ![image](https://user-images.githubusercontent.com/97925777/182987286-cff72eb7-500e-4384-89b2-233352f88f1a.png) Portafolio
