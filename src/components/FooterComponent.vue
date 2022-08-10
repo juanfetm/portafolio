@@ -1,7 +1,7 @@
 <template>
     <footer>
    <div>
-          <h1>C ontact:</h1>
+          <h1>Contact:</h1>
           <br>
           <b>Phone: (+57)3224632668</b>
           <br>
