@@ -1,7 +1,7 @@
 html{
     background: #2f4f4f;;
 }
-img{
+.perfil{
   border-radius: 100%;
   background: transparent;
   border-width: -7rem;
@@ -58,5 +58,16 @@ footer{
   background-color: #2f4f4f;
   margin: -2%;
   color:white;
+  display: grid;
+  height: 20rem;
 }
+.Linke, .github{
+  height: 70px;
+}
+
+
+.theme--light, .theme--dark  {
+height: 112rem;
+}
+
 
