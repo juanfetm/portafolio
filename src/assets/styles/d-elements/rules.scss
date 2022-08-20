@@ -70,4 +70,15 @@ footer{
 height: 112rem;
 }
 
+.view{
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-template-rows: 170px 100px 150px;
+  background: #a2a2a2;
+}
 
+.po{
+width: 150px;
+border-color: white;
+border-style: inset;
+}

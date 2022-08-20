@@ -28,10 +28,13 @@ my knowledge, to be able to contribute to society, collaborate to build it in a 
 </div>
 <div class="P" >
 <h1>Proyects</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
+<div class="view">
+<div class="i"> <h2> Demo day: </h2> <br> <img class="po"
+src="../assets/food.gif" alt="demo day"> </div>
+<div class="o"> <h2>CV:</h2> <br> <img class="po" src="../assets/cv.gif" alt="cv"> </div>
+<div class="u"> <h2>Portafolio:</h2> <br> <img class="po" src="../assets/portafolio.gif"
+alt="portafolio"> </div>
+</div>
 </div>
   <div class="E" >
   <h1>Estudies</h1>
