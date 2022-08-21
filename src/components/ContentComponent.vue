@@ -32,7 +32,7 @@ my knowledge, to be able to contribute to society, collaborate to build it in a 
 <div class="i"> <h2> Demo day: </h2> <br> <img class="po"
 src="../assets/food.gif" alt="demo day"> </div>
 <div class="o"> <h2>CV:</h2> <br> <img class="po" src="../assets/cv.gif" alt="cv"> </div>
-<div class="u"> <h2>Portafolio:</h2> <br> <img class="po" src="../assets/portafolio.gif"
+<div class="u"> <h2>Proyects:</h2> <br> <img class="po" src="../assets/portafolio.gif"
 alt="portafolio"> </div>
 </div>
 </div>
@@ -43,7 +43,6 @@ alt="portafolio"> </div>
    >Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae veli</p>
 </div>
-
   <div class="T" >
 <h1>Testimonials</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.

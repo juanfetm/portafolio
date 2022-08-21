@@ -1,5 +1,5 @@
 html{
-    background: #2f4f4f;;
+    background: #2f4f4f;
 }
 .perfil{
   border-radius: 100%;
@@ -50,16 +50,12 @@ label{
   color: wheat;
 }
 
-body {
-  margin: -3%;
-}
-
 footer{
   background-color: #2f4f4f;
-  margin: -2%;
+  margin: 0;
   color:white;
   display: grid;
-  height: 20rem;
+  height: 100%;
 }
 .Linke, .github{
   height: 70px;
@@ -67,14 +63,14 @@ footer{
 
 
 .theme--light, .theme--dark  {
-height: 112rem;
+  height: 100%;
 }
 
 .view{
   display: grid;
-  grid-template-columns: 300px 300px 300px;
-  grid-template-rows: 170px 100px 150px;
-  background: #a2a2a2;
+  gap: 1rem;
+  grid-auto-rows: 22rem;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
 }
 
 .po{
