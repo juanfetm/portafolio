@@ -30,18 +30,25 @@ my knowledge, to be able to contribute to society, collaborate to build it in a 
 <h1>Proyects</h1>
 <div class="view">
 <div class="i"> <h2> Demo day: </h2> <br> <img class="po"
-src="../assets/food.gif" alt="demo day"> </div>
-<div class="o"> <h2>CV:</h2> <br> <img class="po" src="../assets/cv.gif" alt="cv"> </div>
+src="../assets/food.gif" alt="demo day"> <br>
+<a href="https://github.com/juanfetm/Demo-Day" target="_blank">
+    <button class="go">go</button>
+  </a> </div>
+<div class="o"> <h2>CV:</h2> <br> <img class="po" src="../assets/cv.gif" alt="cv"> <br>
+<a href="https://github.com/juanfetm/CV" target="_blank">
+    <button class="go">go</button>
+  </a></div>
 <div class="u"> <h2>Proyects:</h2> <br> <img class="po" src="../assets/portafolio.gif"
-alt="portafolio"> </div>
+alt="portafolio"> <br>  <a href="https://github.com/juanfetm/portafolio" target="_blank">
+    <button class="go">go</button>
+  </a> </div>
 </div>
-</div>
+</div> <br>
   <div class="E" >
   <h1>Estudies</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli</p>
+<p>I am a professional computer systems technician,
+Front End Developer with knowledge in HTML, CSS, JS, VUE,
+GRID, FLEX. intermediate excel.</p>
 </div>
   <div class="T" >
 <h1>Testimonials</h1>
