@@ -19,14 +19,14 @@ job opportunities it offers are good and growing
 professionally day by day helps us to collaborate in
 this collaborative environment.</p>
 </div>
-<div class="A" >
+<div class="A" id="about">
   <h1>About me</h1>
 <p>Since I was little I have found computer systems interesting, so I decided to study
 a computer systems technician in my city (Pensilvania-Caldas)
 and take different web development courses to expand
 my knowledge, to be able to contribute to society, collaborate to build it in a better way.</p>
 </div>
-<div class="P" >
+<div class="P" id="proyects" >
 <h1>Proyects</h1>
 <div class="view">
 <div class="i"> <h2> Demo day: </h2> <br> <img class="po"
@@ -44,13 +44,19 @@ alt="portafolio"> <br>  <a href="https://github.com/juanfetm/portafolio" target=
   </a> </div>
 </div>
 </div> <br>
-  <div class="E" >
-  <h1>Estudies</h1>
+  <div class="E" id="studies" >
+  <h1>Studies</h1>
 <p>I am a professional computer systems technician,
 Front End Developer with knowledge in HTML, CSS, JS, VUE,
 GRID, FLEX. intermediate excel.</p>
+<div class="Studies">
+  <img class="stu" src="../assets/prosper.png" alt="prosper">
+<img  class="stu" src="../assets/ies.png" alt="ies">
+<img  class="stu" src="../assets/platzi.png" alt="platzi">
+<img  src="../assets/camcop.png" alt="camcop">
 </div>
-  <div class="T" >
+</div>
+  <div class="T" id="testimonials">
 <h1>Testimonials</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae velit.
