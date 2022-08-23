@@ -1,8 +1,8 @@
 <template>
       <div>
           <label for="page-style" class="u-text--light">
-            dark mode💡
-            <input type="checkbox" id="page-style" v-model="isDarkMode"/>
+            <input  type="checkbox" id="page-style" v-model="isDarkMode"/>
+            <img class="sun" src="../src/assets/dark.png" alt="black">
           </label>
         </div>
           <div :class="getTheme()">
