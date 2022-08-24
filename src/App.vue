@@ -1,10 +1,12 @@
 <template>
+<head>
 <div class="disguise">
 <a href="#about" class="disguise">About</a>
 <a href="#proyects" class="disguise">Proyects</a>
 <a href="#studies" class="disguise">Studies</a>
 <a href="#testimonials" class="disguise">Testimonials</a>
 </div>
+</head>
       <div>
           <label for="page-style" class="u-text--light">
             <input  type="checkbox" id="page-style" v-model="isDarkMode"/>

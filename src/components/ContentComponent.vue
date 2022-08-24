@@ -40,6 +40,7 @@ src="../assets/food.gif" alt="demo day"> <br>
   </a></div>
 <div class="u"> <h2>Proyects:</h2> <br> <img class="po" src="../assets/portafolio.gif"
 alt="portafolio"> <br>  <a href="https://github.com/juanfetm/portafolio" target="_blank">
+<a href="mailto:felipemontesjt200@gmail.com">Aquí el texto que quieras</a>
     <button class="go">go</button>
   </a> </div>
 </div>

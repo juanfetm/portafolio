@@ -1,5 +1,9 @@
 html{
     background: #2f4f4f;
+  display: grid;
+  gap: 1rem;
+  grid-auto-rows: 30rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
 }
 .perfil{
   border-radius: 100%;
@@ -32,8 +36,11 @@ p, h1,b{
   animation-name: slidein;
 }
 
+h1:hover{color:rgb(179, 132, 43);}
+p:hover{color:rgb(179, 132, 43);}
+
 @keyframes slidein {
-  from {
+  from {  
     margin-left: 100%;
     width: 100%
   }
@@ -151,7 +158,10 @@ border-style: inset;
   font-size: larger;
 }
 
+.contact,h1{
+  cursor: pointer;
+}
 
-.disguise {color:white;}
+.disguise{color:white;}
 
-.disguise:hover {color:wheat;}
+.disguise:hover{color:wheat;}
