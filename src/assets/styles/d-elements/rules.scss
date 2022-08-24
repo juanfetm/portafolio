@@ -3,7 +3,10 @@ html{
   display: grid;
   gap: 1rem;
   grid-auto-rows: 30rem;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); 
+}
+*{
+  padding: 0px;
 }
 .perfil{
   border-radius: 100%;
@@ -107,10 +110,9 @@ border-style: inset;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
   }
-
   .sun{
-    width: 11rem;
-    height: 4rem;
+    width: 9rem;
+    height: 3rem;
     position: absolute;
     border-radius: 100px;
     display: flex;
@@ -146,8 +148,8 @@ border-style: inset;
 }
 
 .stu{
-  height: 101px;
-  width: 100px;
+  height: 81px;
+  width: 105px;
 }
 
 .disguise{
@@ -165,3 +167,7 @@ border-style: inset;
 .disguise{color:white;}
 
 .disguise:hover{color:wheat;}
+
+.body{
+  margin: 10px;
+}

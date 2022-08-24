@@ -1,10 +1,11 @@
 <template>
+<meta name="google" content="translate">
 <head>
-<div class="disguise">
-<a href="#about" class="disguise">About</a>
-<a href="#proyects" class="disguise">Proyects</a>
-<a href="#studies" class="disguise">Studies</a>
-<a href="#testimonials" class="disguise">Testimonials</a>
+<br><div class="disguise">
+<a href="#about" class="disguise"> About |</a>
+<a href="#proyects" class="disguise"> Proyects  |</a>
+<a href="#studies" class="disguise"> Studies  |</a>
+<a href="#testimonials" class="disguise"> Testimonials</a>
 </div>
 </head>
       <div>

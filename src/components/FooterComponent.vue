@@ -2,10 +2,10 @@
     <footer>
       <div class="container">
  <div class="contact">
-          <h1>Contact:</h1>
-          <p>Phone: (+57)3224632668</p>
-          <p>Mail: felipemontesjt200@gmail.com</p>
-          <p>Address: Cra. 8 50, Pensilvania, Caldas</p>
+          <h1>Contact:</h1><br>
+          <p>Phone: (+57)3224632668</p><br>
+          <p>Mail: felipemontesjt200@gmail.com</p><br>
+          <p>Address: Cra. 8 50, Pensilvania, Caldas</p><br><br>
      </div>
      <div class="ico">
      <a href="https://www.linkedin.com/in/juan-felipe-torralba-montes/"
