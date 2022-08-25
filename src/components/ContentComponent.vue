@@ -60,17 +60,51 @@ GRID, FLEX. intermediate excel.</p>
 </div>
   <div class="T" id="testimonials">
 <br><br> <h1>Testimonials</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli<br><br> <br><br> </p>
+<p>I am part of the prospercity community and I demonstrated
+ it when I participated in "100 Pensilvania opportunities
+ for the world", held in Pensilvania caldas colombia,
+ where I shared my testimony with hundreds of people
+ so that they would be motivated to study web
+development, to have a better life quality.<br><br> <br><br> </p>
+
+<!-- slider -->
+<div class="container">
+  <ul class="slider">
+    <li id="slide1">
+     <img src="../assets/sli1.jpg" alt="photo">
+    </li>
+    <li id="slide2">
+      <img src="../assets/sli2.jpg" alt="photo">
+    </li>
+    <li id="slide3">
+    <img src="../assets/sli3.jpg" alt="photo">
+    </li>
+    <li id="slide4">
+    <img src="../assets/sli4.jpg" alt="photo">
+    </li>
+  </ul>
+  <ul class="menu">
+    <li>
+      <a href="#slide1">1</a>
+    </li>
+    <li>
+      <a href="#slide2">2</a>
+    </li>
+     <li>
+      <a href="#slide3">3</a>
+    </li>
+         <li>
+      <a href="#slide4">4</a>
+    </li>
+  </ul>
+</div>
 </div>
   <div class="W" id="working">
 <br><br> <h1>Interesting in working together</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae velit.
-   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
-   Illo iste hic, pariatur fugiat esse beatae veli<br><br> <br><br> </p>
+  <p>I am looking to have a great professional experience
+ as a Developer, willing and open to continue
+ learning new technologies, and strengthen
+current knowledge<br><br> <br><br> </p>
 </div>
 </div>
 </div>
