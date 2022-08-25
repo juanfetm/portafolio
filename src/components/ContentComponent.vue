@@ -55,11 +55,18 @@ GRID, FLEX. intermediate excel.</p>
 <br><br>   <img class="stu" src="../assets/prosper.png" alt="prosper">
 <img  class="stu" src="../assets/ies.png" alt="ies">
 <img  class="stu" src="../assets/platzi.png" alt="platzi">
-<img  class="stu" src="../assets/camcop.png" alt="camcop">
+<img  class="camcop" src="../assets/camcop.png" alt="camcop">
 </div>
 </div>
   <div class="T" id="testimonials">
 <br><br> <h1>Testimonials</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+   Illo iste hic, pariatur fugiat esse beatae velit.
+   >Lorem ipsum dolor sit amet consectetur adipisicing elit.
+   Illo iste hic, pariatur fugiat esse beatae veli<br><br> <br><br> </p>
+</div>
+  <div class="W" id="working">
+<br><br> <h1>Interesting in working together</h1>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
    Illo iste hic, pariatur fugiat esse beatae velit.
    >Lorem ipsum dolor sit amet consectetur adipisicing elit.

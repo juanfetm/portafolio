@@ -17,22 +17,9 @@ html{
   height: 200px;
   }
 
-  .I{
+  .I, .A, .P, .E, .T, .W {
     text-align: center;
   }
-
-  .A{
-    text-align: center;
-    }
-.P{
-text-align: center;
-}
-.E{
-text-align: center;
-}
-.T{
-text-align: center;
-}
 
 p, h1,b{
   animation-duration: 2s;
@@ -57,16 +44,21 @@ p:hover{color:rgb(179, 132, 43);}
 label{
   border: 0px;
 }
-
+.camcop{
+  height: 81px;
+  width: 145px;
+}
 footer{
   background-color: #2f4f4f;
   margin: 0;
   color:white;
   display: grid;
   height: 100%;
+    grid-template-columns: 1fr 1fr;
 }
 .Linke, .github{
   height: 70px;
+  border-radius: 20%;
 }
 
 
@@ -170,4 +162,12 @@ border-style: inset;
 
 .body{
   margin: 10px;
+}
+
+.links{
+  width: 31rem;
+    display: flex;
+    place-self: center;
+    justify-content: space-around;
+    border-radius: 20%;
 }
